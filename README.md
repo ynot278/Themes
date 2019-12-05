@@ -8,4 +8,5 @@ Preview from [uLaunch Previewer](https://github.com/IcosaSwitch/uLaunch-Previewe
 
 Credits to: 
 [Phenix54s](https://www.reddit.com/user/Phenix54s) for Format
+and
 [Kaz-Kirigiri](https://www.deviantart.com/kaz-kirigiri/art/Code-Geass-C-C-Wallpaper-645700520) for Background
