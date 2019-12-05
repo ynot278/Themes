@@ -1,5 +1,5 @@
 # Themes
-Themes for Switch Homebrew App "uLaunch"
+Themes for Switch Homebrew App: [uLaunch](https://github.com/XorTroll/uLaunch)
 
 # Code Geass - C.C. Theme
 Preview from [uLaunch Previewer](https://github.com/IcosaSwitch/uLaunch-Previewer):
